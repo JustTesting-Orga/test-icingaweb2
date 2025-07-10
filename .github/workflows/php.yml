@@ -10,4 +10,5 @@ on:
 
 jobs:
   php:
+    name: PHP Testing
     uses: JustTesting-Orga/TEST-Workflow/.github/workflows/php.yml@main
